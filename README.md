@@ -27,3 +27,18 @@
 4. Запустите тесты:  
    `pytest -q`
 
+
+
+### Update 1:
+
+Информация о том, как делалась выгрузка в репо: были проблемы с коннектом к github (см. скриншоты):
+
+https://disk.yandex.ru/i/pbDbgY9Hq2ZyXA 
+
+Но в итоге все удалось:
+https://disk.yandex.ru/i/rH23Jw75Yw29QQ
+https://disk.yandex.ru/i/gP7u2-eJmboSKg
+
+В т.ч. залит hotfix и update README :)
+
+
