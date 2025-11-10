@@ -243,8 +243,8 @@ def scrape_books(base_pattern: str,
             break  # выходим из while(true)
         
         
-        if n > 1:  # ограничиваем 1 страницу для автотестов
-            break
+        #if n > 1:  # ограничиваем 1 страницу для автотестов
+            #break
 
     if save_to_file:
         if debug:
